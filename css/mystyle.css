@@ -1,0 +1,32 @@
+#bd .navbar
+{
+    border-bottom: #2980b9 solid 04px;
+}
+
+#Authors img
+{
+    margin-top: -50px;
+}
+
+#Authors .fa
+{
+    font-size: 25px;
+}
+
+#Authors .fa:hover
+{
+    color: white;
+}
+
+#Services .card:hover
+{
+    background:#2d3436;
+    color: #FFF;
+}
+
+#FooterRow
+{
+    border-top: #0984e3 solid 05px;
+}
+
+
